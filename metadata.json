@@ -1,0 +1,6 @@
+{
+  "name": "Aura",
+  "description": "Tu santuario espiritual personalizado: tiradas de cartas (Tarot, Oráculo), meditaciones, rituales y terapias para guiarte en tu camino de autodescubrimiento y sanación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
